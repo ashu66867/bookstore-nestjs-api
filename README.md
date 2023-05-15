@@ -1,7 +1,20 @@
 # bookstore-nestjs-api
 
 ## Description
-Project for building API endpoints for bookstore app using NestJS and Typescript.
+Project for building API endpoints for bookstore app using NestJS and Typescript.<br>
+This application by default will run on localhost:5000.<br>
+Connects to MongoDB Atlas Clustor for book data.<br>
+
+## Api endpoints
+```
+/books
+```
+for fetching all data.<br>
+
+### Routes will be modified/added in future to:
+1. filter books
+2. handle pagination
+
 
 ## Installation
 
