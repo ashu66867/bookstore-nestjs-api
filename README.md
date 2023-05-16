@@ -3,7 +3,8 @@
 ## Description
 This project builds API endpoints for bookstore app using NestJS and Typescript.<br>
 This app runs on localhost:5000 by default and connects to MongoDB Atlas for book data.<br>
-### [https://github.com/ashu66867/bookstore-react](https://github.com/ashu66867/bookstore-react) for react project.
+
+### [bookstore-react](https://github.com/ashu66867/bookstore-react) for react project.
 
 ## Api endpoints
 ```
