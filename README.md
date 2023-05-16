@@ -16,9 +16,9 @@ This app runs on localhost:5000 by default & connects to MongoDB Atlas for book 
 2. Handle pagination
 
 ## Approach
-Books controller, service model and module placed in 'src/books'.
-Using mongoose library to model book object in DB.
-Port & MongoDB Atlas url are environment variables.
+Books controller, service model and module placed in 'src/books'.<br>
+Using mongoose library to model book object in DB.<br>
+Port & MongoDB Atlas url are environment variables.<br>
 
 ## Installation
 
